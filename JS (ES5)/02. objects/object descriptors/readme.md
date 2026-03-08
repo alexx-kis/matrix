@@ -21,13 +21,7 @@
 ```js
 const obj = { a: 10 };
 const desc = Object.getOwnPropertyDescriptor(obj, 'a');
-console.log(desc);
-```
-
-вывод:
-
-```js
-{ value: 10, writable: true, enumerable: true, configurable: true }
+console.log(desc); // { value: 10, writable: true, enumerable: true, configurable: true }
 ```
 
 ✅ по умолчанию при создании свойства через литерал `{}`, все флаги выставлены в `true`
@@ -82,6 +76,20 @@ console.log(obj.x);
 - сеттер позволяет контролировать, что происходит при присвоении значения - можно добавлять проверки, логику или вычисления, прежде чем реально менять данные
 
 - accessor descriptors дают контроль над чтением и записью свойств, вместо того, чтобы просто хранить данные
+
+- получение accessor descriptor
+
+```js
+const obj = {
+  get value() {
+    return 10;
+  },
+};
+
+const descriptor = Object.getOwnPropertyDescriptor(obj, 'value');
+
+// {get: function value() {...}, set: undefined, enumerable: true, configurable: true}
+```
 
 ## полезные паттерны
 
