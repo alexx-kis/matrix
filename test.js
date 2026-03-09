@@ -1,11 +1,10 @@
-"use strict";
+const numbers = [1, 2, 3];
 
-const obj = {
-  get value() {
-    return 10;
-  }
+const addNumber = (arr, num) => {
+  return [...arr, num];
 };
 
-obj.value = 50;
+const newNumbers = addNumber(numbers, 4);
 
-console.log(obj.value);
+console.log(numbers); // [1, 2, 3]
+console.log(newNumbers); // [1, 2, 3, 4]
