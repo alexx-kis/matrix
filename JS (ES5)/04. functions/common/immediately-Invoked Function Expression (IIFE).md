@@ -59,5 +59,3 @@ const runFunction = function () {};
 ### сейчас IIFE используются реже
 
 - потому что появились `let`, `const` (с блочной областью видимости) и ES-modules (import/export)
-
-
