@@ -66,3 +66,9 @@
 ## 20 марта 2026
 
 - способы привязать `this`
+
+## 21 марта 2026
+
+- глобальный контекст (window)
+- lexical environment
+- scope definition
