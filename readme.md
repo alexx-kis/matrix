@@ -72,3 +72,7 @@
 - глобальный контекст (window)
 - lexical environment
 - scope definition
+
+## 22 марта 2026
+
+- замыкания
