@@ -76,3 +76,7 @@
 ## 23 марта 2026
 
 - Lexical Environment Garbage Collection
+
+## 24 марта 2026
+
+- `__proto__` и `prototype`
