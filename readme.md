@@ -62,7 +62,6 @@
 
 - this
 
-
 ## 20 марта 2026
 
 - способы привязать `this`
@@ -72,3 +71,8 @@
 - глобальный контекст (window)
 - lexical environment
 - scope definition
+- closures
+
+## 23 марта 2026
+
+- Lexical Environment Garbage Collection
