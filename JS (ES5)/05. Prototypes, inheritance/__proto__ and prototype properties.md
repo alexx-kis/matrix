@@ -134,6 +134,56 @@ null
   - методы классов
   - экономия памяти
 
-
 ### пример экономии памяти
 
+- плохо:
+
+```js
+function User(name) {
+  this.name = name;
+  this.sayHi = function () {
+    console.log(this.name);
+  };
+}
+```
+
+- каждая копия функции создаётся заново
+
+- хорошо:
+
+```js
+function User(name) {
+  this.name = name;
+}
+
+User.prototype.sayHi = function () {
+  console.log(this.value);
+};
+```
+
+- одна функция на всех
+
+## связь с `class`
+
+```js
+class PersonClass {
+  constructor(name) {
+    this.name = name;
+  }
+
+  sayHi() {
+    console.log(this.name);
+  }
+}
+```
+
+- на самом деле:
+
+```js
+PersonClass.prototype.sayHi;
+```
+
+## главное запомнить
+
+- `__proto__` - у объекта (откуда наследую)
+- `prototype` - у функции (что получат новые объекты)
