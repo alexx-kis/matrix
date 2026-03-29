@@ -89,3 +89,5 @@
 ## 29 марта 2026
 
 - создание объекта с прототипом
+- get and set object prototype
+- prototype inheritance vs OOP inheritance
