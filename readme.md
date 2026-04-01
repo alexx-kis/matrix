@@ -91,3 +91,9 @@
 - создание объекта с прототипом
 - get and set object prototype
 - prototype inheritance vs OOP inheritance
+
+## 01 апреля 2026
+
+- получение конструктора через прототип
+- try-catch
+
