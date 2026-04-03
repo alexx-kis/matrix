@@ -102,3 +102,12 @@
 - finally
 - свойства объекта Error
 - window.onerror
+- asynchronous programming:
+  - event loop
+
+## 03 апреля 2026
+
+- asynchronous programming:
+  - scheduling
+
+- regular expressions
