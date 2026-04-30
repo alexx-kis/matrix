@@ -119,3 +119,13 @@
 - экранирование символов
 - продвинутые паттерны
 - продвинутые флаги поиска
+
+## 28 апреля 2026
+
+- let/const vs var
+- TDZ
+
+## 30 апреля 2026
+
+- destructuring assignment, spread/rest operator
+
