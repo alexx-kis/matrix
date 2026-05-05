@@ -129,3 +129,8 @@
 
 - destructuring assignment, spread/rest operator
 
+## 04 мая 2026
+
+- for...of
+- template string
+- методы объекта
