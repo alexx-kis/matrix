@@ -134,3 +134,4 @@
 - for...of
 - template string
 - методы объекта
+- flat, flatMap, includes, Array.from() methods
