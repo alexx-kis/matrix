@@ -133,5 +133,9 @@
 
 - for...of
 - template string
+
+## 05 мая 2026
+
 - методы объекта
 - flat, flatMap, includes, Array.from() methods
+- Map/Set
