@@ -144,3 +144,4 @@
 
 - difference between assign and spread operator
 - nullish coalescing operator `??`
+- WeakMap, WeakSet
