@@ -143,3 +143,4 @@
 ## 06 мая 2026
 
 - difference between assign and spread operator
+- nullish coalescing operator `??`
