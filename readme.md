@@ -139,3 +139,7 @@
 - методы объекта
 - flat, flatMap, includes, Array.from() methods
 - Map/Set
+
+## 06 мая 2026
+
+- difference between assign and spread operator
