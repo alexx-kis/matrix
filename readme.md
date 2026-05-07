@@ -152,3 +152,4 @@
 - iterable objects
 - tag functions
 - Symbol
+- bigint
