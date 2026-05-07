@@ -145,3 +145,7 @@
 - difference between assign and spread operator
 - nullish coalescing operator `??`
 - WeakMap, WeakSet
+
+## 07 мая 2026
+
+- proxy + reflect
