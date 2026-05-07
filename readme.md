@@ -149,3 +149,4 @@
 ## 07 мая 2026
 
 - proxy + reflect
+- iterable objects
