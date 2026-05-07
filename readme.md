@@ -151,3 +151,4 @@
 - proxy + reflect
 - iterable objects
 - tag functions
+- Symbol
