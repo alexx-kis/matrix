@@ -129,3 +129,6 @@
 
 - destructuring assignment, spread/rest operator
 
+## 03 мая
+
+- стрелочные функции
