@@ -129,6 +129,27 @@
 
 - destructuring assignment, spread/rest operator
 
-## 03 мая
+## 04 мая 2026
 
-- стрелочные функции
+- for...of
+- template string
+
+## 05 мая 2026
+
+- методы объекта
+- flat, flatMap, includes, Array.from() methods
+- Map/Set
+
+## 06 мая 2026
+
+- difference between assign and spread operator
+- nullish coalescing operator `??`
+- WeakMap, WeakSet
+
+## 07 мая 2026
+
+- proxy + reflect
+- iterable objects
+- tag functions
+- Symbol
+- bigint
