@@ -153,3 +153,8 @@
 - tag functions
 - Symbol
 - bigint
+
+
+## 12 мая 2026
+
+- import/export
