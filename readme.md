@@ -154,7 +154,8 @@
 - Symbol
 - bigint
 
-
 ## 12 мая 2026
 
 - import/export
+- `*` for imports
+- import/export as
