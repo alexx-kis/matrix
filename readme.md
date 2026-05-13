@@ -159,3 +159,7 @@
 - import/export
 - `*` for imports
 - import/export as
+
+## 13 мая 2026
+
+- default export
