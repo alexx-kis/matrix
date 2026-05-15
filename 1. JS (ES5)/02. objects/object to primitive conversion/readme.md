@@ -47,7 +47,7 @@ console.log(obj + 5); // [object Object]5
   2. `valueOf()`
   3. `toString()`
 
-- если метода `Symbol.toPrimitive` существует, JS использует его
+- если метод `Symbol.toPrimitive` существует, JS использует его
 
 ```js
 const obj = {

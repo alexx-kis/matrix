@@ -123,7 +123,7 @@ adminAccount = null;
 
 ### шаг 2 - sweep (очистить)
 
-- Garbage Collector проходит по памяти и удаляет всё, что не было помечено\
+- Garbage Collector проходит по памяти и удаляет всё, что не было помечено
 
 ```
 Object A  (marked)

@@ -42,7 +42,7 @@ console.log(weirdDate); // 2024-02-01, потому что January 32 → Februa
 
 ```
 0 -> January
-11 -> February
+1 -> February
 ```
 
 - Date автоматически нормализует значение
