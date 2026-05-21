@@ -164,3 +164,7 @@
 
 - default export
 - reexport
+
+## 21 мая 2026
+
+- dynamic import
