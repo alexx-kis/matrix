@@ -173,3 +173,4 @@
 ## 22 мая 2026
 
 - classes. basic syntax
+- inheritance
