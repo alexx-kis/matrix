@@ -169,3 +169,7 @@
 
 - dynamic import
 - module namespace exports
+
+## 22 мая 2026
+
+- classes. basic syntax
