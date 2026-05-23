@@ -174,3 +174,7 @@
 
 - classes. basic syntax
 - inheritance
+
+## 23 мая 2026
+
+- private and protected properties and methods
