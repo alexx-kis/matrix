@@ -178,3 +178,7 @@
 ## 23 мая 2026
 
 - private and protected properties and methods
+
+## 24 мая 2026
+
+- `instance of`
