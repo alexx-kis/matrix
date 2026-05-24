@@ -183,3 +183,4 @@
 
 - `instance of`
 - static properties and methods
+- reverting of class inheritance to functional inheritance and vice versa
