@@ -182,3 +182,4 @@
 ## 24 мая 2026
 
 - `instance of`
+- static properties and methods
