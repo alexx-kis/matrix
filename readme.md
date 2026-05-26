@@ -184,4 +184,8 @@
 - `instance of`
 - static properties and methods
 - reverting of class inheritance to functional inheritance and vice versa
+
+## 26 мая 2026
+
 - mixins
+- decorators
