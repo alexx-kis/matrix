@@ -189,3 +189,7 @@
 
 - mixins
 - decorators
+
+## 27 мая 2026
+
+- promise vs callbacks
