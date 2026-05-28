@@ -193,3 +193,7 @@
 ## 27 мая 2026
 
 - promise vs callbacks
+
+
+## 28 мая 2026
+- states of promises
