@@ -197,3 +197,4 @@
 
 ## 28 мая 2026
 - states of promises
+- exceptions/errors handling
