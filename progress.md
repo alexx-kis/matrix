@@ -203,3 +203,4 @@
 
 - promise chaining, falling through promises
 - custom promise
+- finally
