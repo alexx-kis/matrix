@@ -205,3 +205,4 @@
 - custom promise
 - finally
 - examples of async functions
+- exceptions/errors handlingG
