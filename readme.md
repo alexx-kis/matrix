@@ -194,7 +194,11 @@
 
 - promise vs callbacks
 
-
 ## 28 мая 2026
+
 - states of promises
 - exceptions/errors handling
+
+## 29 мая 2026
+
+- promise chaining, falling through promises
