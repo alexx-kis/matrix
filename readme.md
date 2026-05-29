@@ -202,3 +202,4 @@
 ## 29 мая 2026
 
 - promise chaining, falling through promises
+- custom promise
