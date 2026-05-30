@@ -206,3 +206,7 @@
 - finally
 - examples of async functions
 - exceptions/errors handlingG
+
+## 30 мая 2026
+
+- rewriting promise code with async/await
