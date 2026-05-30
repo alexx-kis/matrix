@@ -211,3 +211,4 @@
 
 - rewriting promise code with async/await
 - async/await class methods
+- Promise.all, Promise.race analogs
