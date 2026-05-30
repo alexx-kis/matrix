@@ -210,3 +210,4 @@
 ## 30 мая 2026
 
 - rewriting promise code with async/await
+- async/await class methods
