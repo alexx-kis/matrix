@@ -212,3 +212,7 @@
 - rewriting promise code with async/await
 - async/await class methods
 - Promise.all, Promise.race analogs
+
+## 31 мая 2026
+
+- simple generators syntax and how it works
