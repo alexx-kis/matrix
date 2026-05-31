@@ -216,3 +216,4 @@
 ## 31 мая 2026
 
 - simple generators syntax and how it works
+- generators composition
