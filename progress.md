@@ -217,3 +217,7 @@
 
 - simple generators syntax and how it works
 - generators composition
+
+## 01 июня 2026
+
+- basic usage of fetch()
