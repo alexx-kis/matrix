@@ -221,3 +221,7 @@
 ## 01 июня 2026
 
 - basic usage of fetch()
+
+## 02 июня 2026
+
+- advanced usage of fetch
