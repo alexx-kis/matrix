@@ -225,3 +225,7 @@
 ## 02 июня 2026
 
 - advanced usage of fetch
+
+## 07 июня 2026
+
+- difference between XHR and fetch
