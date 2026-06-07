@@ -229,3 +229,4 @@
 ## 07 июня 2026
 
 - difference between XHR and fetch
+- what is DOM
