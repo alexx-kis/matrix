@@ -230,3 +230,7 @@
 
 - difference between XHR and fetch
 - what is DOM
+
+## 09 июня 2026
+
+- DOM inspecting
