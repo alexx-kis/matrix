@@ -235,3 +235,7 @@
 
 - DOM inspecting
 - DOM tree creating
+
+## 10 июня 2026
+
+- DOM elements navigation
