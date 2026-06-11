@@ -239,3 +239,7 @@
 ## 10 июня 2026
 
 - DOM elements navigation
+
+## 11 июня 2026
+
+- console.log vs console.dir
