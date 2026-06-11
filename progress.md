@@ -243,3 +243,4 @@
 ## 11 июня 2026
 
 - console.log vs console.dir
+- web components
