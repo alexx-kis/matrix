@@ -244,3 +244,7 @@
 
 - console.log vs console.dir
 - web components
+
+## 12 июня 2026
+
+- client* vs offset*
