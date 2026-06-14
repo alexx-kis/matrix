@@ -248,3 +248,7 @@
 ## 12 июня 2026
 
 - client* vs offset*
+
+## 14 июня 2026
+
+- scroll properties
