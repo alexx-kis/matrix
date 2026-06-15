@@ -252,3 +252,7 @@
 ## 14 июня 2026
 
 - scroll properties
+
+## 15 июня 2026
+
+- writeable properties
