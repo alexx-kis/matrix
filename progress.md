@@ -260,3 +260,4 @@
 - dynamic styles with js
 - computed styles
 - ways to get DOM elements
+- DOM events. handling
