@@ -257,3 +257,4 @@
 
 - writeable properties
 - classList vs className
+- dynamic styles with js
