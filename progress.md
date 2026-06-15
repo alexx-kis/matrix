@@ -259,3 +259,4 @@
 - classList vs className
 - dynamic styles with js
 - computed styles
+- ways to get DOM elements
