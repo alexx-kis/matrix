@@ -266,3 +266,4 @@
 
 - basic types of DOM events
 - ways to prevent DOM events
+- events propagation (bubbling, capturing)
