@@ -265,3 +265,4 @@
 ## 16 июня 2026
 
 - basic types of DOM events
+- ways to prevent DOM events
