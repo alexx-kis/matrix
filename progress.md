@@ -261,3 +261,7 @@
 - computed styles
 - ways to get DOM elements
 - DOM events. handling
+
+## 16 июня 2026
+
+- basic types of DOM events
