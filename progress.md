@@ -272,3 +272,4 @@
 ## 17 июня 2026
 
 - extended types of DOM events
+- form events
