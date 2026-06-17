@@ -268,3 +268,7 @@
 - ways to prevent DOM events
 - events propagation (bubbling, capturing)
 - events delegation
+
+## 17 июня 2026
+
+- extended types of DOM events
