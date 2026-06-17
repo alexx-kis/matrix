@@ -273,3 +273,4 @@
 
 - extended types of DOM events
 - form events
+- custom events
