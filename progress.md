@@ -275,3 +275,7 @@
 - form events
 - custom events
 - content, document, window load events
+
+## 18 июня 2026
+
+- what is cookie
