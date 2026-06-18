@@ -279,3 +279,4 @@
 ## 18 июня 2026
 
 - what is cookie
+- setting and getting of cookies
