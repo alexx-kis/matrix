@@ -280,3 +280,7 @@
 
 - what is cookie
 - setting and getting of cookies
+
+## 19 июня 2026
+
+- age of cookie
