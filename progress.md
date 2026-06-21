@@ -284,3 +284,7 @@
 ## 19 июня 2026
 
 - age of cookie
+
+## 21 июня 2026
+
+- secured cookies

@@ -198,7 +198,7 @@
 
 - Reverting of class inheritance to functional inheritance and vice versa;
 - Mixins;
-- Decorators; 
+- Decorators;
 
 ## 2.5. ASYNCHRONOUS PROGRAMMING
 
