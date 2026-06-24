@@ -288,3 +288,7 @@
 ## 21 июня 2026
 
 - secured cookies
+
+## 24 июня 2026
+
+- cookie removing
