@@ -292,3 +292,7 @@
 ## 24 июня 2026
 
 - cookie removing
+
+## 26 июня 2026
+
+- size restrictions
