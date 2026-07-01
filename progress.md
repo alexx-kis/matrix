@@ -300,3 +300,7 @@
 ## 28 июня 2026
 
 - GDPR
+
+## 01 июля 2026
+
+- third-party cookies
