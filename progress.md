@@ -304,3 +304,4 @@
 ## 01 июля 2026
 
 - third-party cookies
+- local vs session storage

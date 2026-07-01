@@ -303,7 +303,7 @@
 
 ## 3.2. STORAGES
 
-### 3.2.1. Cook1ie
+### 3.2.1. Cookie
 
 - What is cookie;
 - Setting and getting of cookies;
