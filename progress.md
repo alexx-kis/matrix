@@ -305,3 +305,7 @@
 
 - third-party cookies
 - local vs session storage
+
+## 09 июля 2026
+
+- storages purpose
