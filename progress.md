@@ -309,3 +309,4 @@
 ## 09 июля 2026
 
 - storages purpose
+- setting, getting, clearing of values;
