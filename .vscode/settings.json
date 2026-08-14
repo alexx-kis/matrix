@@ -43,6 +43,7 @@
     "pointermove",
     "pointerup",
     "Qube",
+    "readwrite",
     "REDMINE",
     "SDLC",
     "SLOC",
