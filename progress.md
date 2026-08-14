@@ -315,3 +315,4 @@
 
 - size restrictions;
 - DB setup
+- Transactions
