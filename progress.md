@@ -306,7 +306,12 @@
 - third-party cookies
 - local vs session storage
 
-## 09 июля 2026
+## 09 августа 2026
 
 - storages purpose
 - setting, getting, clearing of values;
+
+## 14 августа 2026
+
+- size restrictions;
+- DB setup
