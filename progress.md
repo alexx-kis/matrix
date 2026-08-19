@@ -321,3 +321,4 @@
 
 - search flow
 - version control в indexedDB
+- cursors
