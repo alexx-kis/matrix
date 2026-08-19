@@ -316,3 +316,7 @@
 - size restrictions;
 - DB setup
 - Transactions
+
+## 19 августа 2026
+
+- search flow
