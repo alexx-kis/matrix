@@ -320,3 +320,4 @@
 ## 19 августа 2026
 
 - search flow
+- version control в indexedDB
