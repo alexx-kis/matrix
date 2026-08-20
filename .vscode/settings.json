@@ -57,6 +57,7 @@
     "transitionend",
     "transitionstart",
     "truthly",
+    "uglifyjs",
     "unhandledrejection",
     "usercard",
     "visibilitychange",

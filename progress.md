@@ -326,3 +326,4 @@
 ## 20 августа 2026
 
 - minification
+- uglifying
