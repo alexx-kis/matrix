@@ -322,3 +322,7 @@
 - search flow
 - version control в indexedDB
 - cursors
+
+## 20 августа 2026
+
+- minification
