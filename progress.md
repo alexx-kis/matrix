@@ -328,3 +328,7 @@
 - minification
 - uglifying
 - compression
+
+## 21 августа 2026
+
+- tree shaking
