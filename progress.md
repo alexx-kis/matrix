@@ -332,3 +332,4 @@
 ## 21 августа 2026
 
 - tree shaking
+- dependencies duplication в npm
