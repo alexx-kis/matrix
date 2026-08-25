@@ -333,3 +333,7 @@
 
 - tree shaking
 - dependencies duplication в npm
+
+## 25 августа 2026
+
+- dynamic compression vs static
