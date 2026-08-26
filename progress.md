@@ -337,3 +337,7 @@
 ## 25 августа 2026
 
 - dynamic compression vs static
+
+## 26 августа 2026
+
+- Gzip vs Brotli compression
