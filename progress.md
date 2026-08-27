@@ -341,3 +341,7 @@
 ## 26 августа 2026
 
 - Gzip vs Brotli compression
+
+## 28 august 2026
+
+- browser caching for resources
