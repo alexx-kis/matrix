@@ -342,6 +342,10 @@
 
 - Gzip vs Brotli compression
 
-## 28 august 2026
+## 27 august 2026
 
 - browser caching for resources
+
+## 28 august 2026
+
+- assets compressing
