@@ -349,3 +349,7 @@
 ## 28 august 2026
 
 - assets compressing
+
+## 29 august 2026
+
+- async и defer scripts
