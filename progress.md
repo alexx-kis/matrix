@@ -353,3 +353,7 @@
 ## 29 august 2026
 
 - async и defer scripts
+
+## 30 august 2026
+
+- critical css
