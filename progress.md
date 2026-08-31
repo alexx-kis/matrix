@@ -357,3 +357,7 @@
 ## 30 august 2026
 
 - critical css
+
+## 31 august 2026
+
+- lazy load for code chunks
