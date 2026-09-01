@@ -361,3 +361,7 @@
 ## 31 august 2026
 
 - lazy load for code chunks
+
+## 1 september 2026
+
+- what are web workers and why do we need them?
