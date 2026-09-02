@@ -365,3 +365,7 @@
 ## 1 september 2026
 
 - what are web workers and why do we need them?
+
+## 2 september
+
+- web workers creating
