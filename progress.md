@@ -373,3 +373,7 @@
 ## 03 september 2026
 
 - web workers terminating
+
+## 07 september 2026
+
+- web workers messaging
