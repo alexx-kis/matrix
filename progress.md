@@ -377,3 +377,11 @@
 ## 07 september 2026
 
 - web workers messaging
+
+## 08 september 2026
+
+- subworkers
+
+## 09 september
+
+- error handling
