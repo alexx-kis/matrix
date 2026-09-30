@@ -385,3 +385,4 @@
 ## 09 september
 
 - error handling
+- shared workers
