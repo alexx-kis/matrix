@@ -385,4 +385,15 @@
 ## 09 september
 
 - error handling
+
+## 30 september
+
 - shared workers
+
+## 02 october
+
+- basic scheme for HTML document
+- html symbols usage
+- text formatting, paragraphs
+- html links. link target
+- html tables

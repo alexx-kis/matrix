@@ -360,6 +360,7 @@
 
 ### 3.3.3. Web Workers
 
+
 - What are web workers and why do we need them?
 
 - Web workers creating;
@@ -369,10 +370,10 @@
 - Error handling;
 
 - Shared workers;
-- Embedded workers;
-- Content security policy;
+- Embedded workers; (-)
+- Content security policy; (-)
 
-### 3.3.4. Service Workers
+### 3.3.4. Service Workers (-)
 
 - Service worker. What is it?
 - Browsers setup to allow service worker;
