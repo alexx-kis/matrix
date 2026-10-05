@@ -397,3 +397,23 @@
 - text formatting, paragraphs
 - html links. link target
 - html tables
+
+## 05 october
+
+- adding of scripts
+- difference between block and inline elements
+- media
+- html forms
+- svg
+- meta tags
+- template element
+- canvas
+- style guide и coding convention
+
+- css: frameworks layout technique
+- selectors and their weight
+- positioning
+- margin vs padding
+- fonts adding
+- element visibility
+- z-index
