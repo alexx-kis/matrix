@@ -417,3 +417,14 @@
 - fonts adding
 - element visibility
 - z-index
+
+## 06 october
+
+- flexbox
+- responsive design
+- preprocessors
+- pseudo-classes и pseudo-elements
+- layout techniques
+- responsive design (setup)
+- animation, keyframes, transitions
+- browser dependent styles
