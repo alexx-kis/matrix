@@ -428,3 +428,22 @@
 - responsive design (setup)
 - animation, keyframes, transitions
 - browser dependent styles
+
+## 07 october
+
+- why and how do we use ReactDOM library
+- why was ReactDOM moved to a separate library
+- how does it work inside
+
+- why do we import React if we don't use it
+- what React is for in a component
+- how JSX is converted to JS
+
+- how createElement works
+- cloneElement
+
+- react fragments
+
+- fiber
+
+- jobs
