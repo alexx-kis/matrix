@@ -360,7 +360,6 @@
 
 ### 3.3.3. Web Workers
 
-
 - What are web workers and why do we need them?
 
 - Web workers creating;

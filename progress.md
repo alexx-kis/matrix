@@ -447,3 +447,19 @@
 - fiber
 
 - jobs
+
+## 08 october
+
+- recursion on child elements
+
+- functional components
+- class components
+- props
+- state
+
+## 09 october
+
+- lifecycle methods в React
+- props validation
+- PureComponent / memo
+- refs
