@@ -463,3 +463,9 @@
 - props validation
 - PureComponent / memo
 - refs
+
+## 12 october
+
+- context
+- portals
+- patterns
