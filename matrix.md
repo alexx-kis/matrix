@@ -682,7 +682,7 @@
 
 - Good understanding of the Concurrent API.
 
-### 4.5.7. Bundle optimization "
+### 4.5.7. Bundle optimization
 
 - lazy-loading
 - tree shaking

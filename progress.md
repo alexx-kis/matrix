@@ -469,3 +469,22 @@
 - context
 - portals
 - patterns
+
+## 13 october
+
+- jsx handlers
+- binding в JavaScript и React
+- SyntheticEvent в React
+- event types
+- controlled / uncontrolled components в React
+- working with forms в React
+- bubbling event in react
+
+## 14 october
+
+- basic react optimization
+- Reselect и Recompose в React
+- virtualization
+- useCallback, useMemo
+- lazy imports and dynamic imports
+- concurrent mode and suspense
