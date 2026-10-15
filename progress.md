@@ -488,3 +488,10 @@
 - useCallback, useMemo
 - lazy imports and dynamic imports
 - concurrent mode and suspense
+
+## 15 october
+
+- bundle optimization
+- react devtools, redux devtools
+- service workers (?)
+- ssr
