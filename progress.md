@@ -495,3 +495,11 @@
 - react devtools, redux devtools
 - service workers (?)
 - ssr
+- testing: Jest, Enzyme and other tools
+
+## 16 october
+
+- snapshot testing, components testing
+- e2e
+- react router
+- hooks routing
