@@ -503,3 +503,10 @@
 - e2e
 - react router
 - hooks routing
+
+## 19 october
+
+- react router api
+- history, location, match
+- lazy routes
+- connected react router
