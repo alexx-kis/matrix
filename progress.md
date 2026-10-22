@@ -510,3 +510,13 @@
 - history, location, match
 - lazy routes
 - connected react router
+
+## 21 october
+
+- working with api
+
+## 22 october
+
+- mock servers
+- websockets
+- 
