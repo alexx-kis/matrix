@@ -519,4 +519,12 @@
 
 - mock servers
 - websockets
-- 
+- redux main principles
+- HOC connect
+
+## 23 october
+
+- actions
+- reducers
+- middlewares
+- selectors
